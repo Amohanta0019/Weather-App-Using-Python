@@ -5,7 +5,9 @@ Welcome to the Weather App project in Python! This application allows users to r
 Features
 =========
 Current Weather: Get up-to-date information about the current weather conditions in any city.
+
 User-friendly Interface: The app features a simple and intuitive interface for easy navigation.
+
 OpenWeatherMap Integration: Utilizes the OpenWeatherMap API to fetch accurate and reliable weather data.
 
 Prerequisites
